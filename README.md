@@ -1,5 +1,5 @@
 # aarushi1307.github.io
-# Hi there 👋, I'm Ash
+# Hi there 👋, I'm Aarushi Srivastava
 
 ## 🚀 About Me
 - 🎓 BTech CSE Student  
