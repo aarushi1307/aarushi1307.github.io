@@ -27,4 +27,4 @@
 
 
 ## ⭐ Fun Fact
-I love building projects and participating in hackath
+I love building projects and participating in hackathon
